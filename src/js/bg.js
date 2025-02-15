@@ -1,12 +1,12 @@
 const images = [
-  './img/1.webp',
-  './img/2.webp',
-  './img/3.webp',
-  './img/4.webp',
-  './img/5.webp',
-  './img/6.webp',
-  './img/7.webp',
-  './img/8.webp',
+  './public/1.webp',
+  './public/2.webp',
+  './public/3.webp',
+  './public/4.webp',
+  './public/5.webp',
+  './public/6.webp',
+  './public/7.webp',
+  './public/8.webp',
 ];
 
 let currentImageIndex = 0;
