@@ -1,2 +1,2 @@
-import"./assets/styles-D_F7Kjbb.js";const b=["./img/webp/1.webp","./img/webp/2.webp","./img/webp/3.webp","./img/webp/4.webp","./img/webp/5.webp","./img/webp/6.webp","./img/webp/7.webp","./img/webp/8.webp"];let e=0;function p(){document.body.style.backgroundImage=`url(${b[e]})`,e=(e+1)%b.length}setInterval(p,1e4);p();
+import"./assets/styles-D_F7Kjbb.js";const g=["./img/1.webp","./img/2.webp","./img/3.webp","./img/4.webp","./img/5.webp","./img/6.webp","./img/7.webp","./img/8.webp"];let e=0;function m(){document.body.style.backgroundImage=`url(${g[e]})`,e=(e+1)%g.length}setInterval(m,1e4);m();
 //# sourceMappingURL=index.js.map
