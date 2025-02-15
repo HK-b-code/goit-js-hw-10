@@ -1,2 +1,2 @@
-import"./assets/styles-D_F7Kjbb.js";const n=["/1.webp","/2.webp","/3.webp","/4.webp","/5.webp","/6.webp","/7.webp","/8.webp"];let e=0;function b(){document.body.style.backgroundImage=`url(${n[e]})`,e=(e+1)%n.length}setInterval(b,1e4);b();
+import"./assets/styles-DirTc3zV.js";const g=["../img/1.webp","../img/2.webp","../img/3.webp","../img/4.webp","../img/5.webp","../img/6.webp","../img/7.webp","../img/8.webp"];let e=0;function m(){document.body.style.backgroundImage=`url(${g[e]})`,e=(e+1)%g.length}setInterval(m,1e4);m();
 //# sourceMappingURL=index.js.map
